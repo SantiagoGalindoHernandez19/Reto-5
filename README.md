@@ -42,4 +42,6 @@ Dada una cadena de longitud 1, determine si el código ASCII de primera letra de
 6)Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 
 
+![6, reto #6](https://user-images.githubusercontent.com/124641609/227641092-900941aa-70da-4050-8f42-ef75d2e7f8d1.JPG)
+
 
