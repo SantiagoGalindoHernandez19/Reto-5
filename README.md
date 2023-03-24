@@ -25,7 +25,9 @@ Dada una cadena de longitud 1, determine si el código ASCII de primera letra de
 4)Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:
 
 -Positivo: "El número x es positivo"
+
 -Negativo: "El numero x es negativo"
+
 -Cero (0): "El numero x es el neutro para la suma"
 
 ---
@@ -36,5 +38,8 @@ Dada una cadena de longitud 1, determine si el código ASCII de primera letra de
 ![5, reto #5](https://user-images.githubusercontent.com/124641609/227637466-d591eed6-3ca5-4de4-ba77-38c18deb67b6.JPG)
 
 ---
+ 
+6)Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+
 
 
